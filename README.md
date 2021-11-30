@@ -1,0 +1,14 @@
+# sys_tssi_64_tecno-user 11 RP1A.200720.011 100208 release-keys
+- manufacturer: 
+- platform: mt6768
+- codename: TECNO-KF8
+- flavor: sys_tssi_64_tecno-user
+- release: 11
+- id: RP1A.200720.011
+- incremental: 210419V94
+- tags: release-keys
+- fingerprint: TECNO/KF8-TR/TECNO-KF8:11/RP1A.200720.011/210419V67:user/release-keys
+- is_ab: true
+- brand: TECNO
+- branch: sys_tssi_64_tecno-user-11-RP1A.200720.011-100208-release-keys
+- repo: tecno_tecno-kf8_dump

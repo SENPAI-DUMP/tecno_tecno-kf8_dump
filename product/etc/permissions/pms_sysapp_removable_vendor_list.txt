@@ -1,0 +1,10 @@
+
+com.facebook.katana
+com.instagram.android
+com.facebook.orca
+com.afmobi.boomplayer
+com.smartlife.nebula
+com.google.android.apps.docs
+com.google.android.apps.tachyon
+com.google.android.apps.photos
+com.google.android.videos
